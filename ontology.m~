@@ -1,0 +1,50 @@
+classdef ontology 
+   
+    properties
+        depedencyMatrix;
+        structureLabels;
+        recursiveStructure;
+        directedDistanceMatrix;
+        unDirectedDistanceMatrix;
+    end
+    
+    methods
+        function undirectedMatrix = getUndirectedMatrix()
+            undirectedMatrix = obj.dependecyMatrix + obj.dependecyMatrix';
+        end
+        
+        
+        function childOfNodes = getIndexesOfChilds(parentNodeIndexes)
+            [allChilds, ~] = obj.allChildNodes();
+            childOfNodes = allChilds(parentNodeIndexes, :);
+            childOfNodes = sum(childOfNodes,1);
+        end
+
+        function [allChilds, nodeLevel] = allChildNodes()
+            allChilds = inv(eye(size(obj.dependencyMatrix)) - obj.dependencyMatrix);
+            nodeLevel = sum(allChilds,1);
+        end
+        
+        
+        function reducedOntology = reduceToLeafAndParents(leafIndices)
+
+            [allChilds, ~] = obj.allChildNodes();
+            leafParents = allChilds(:,leafIndices);
+            leafsAndParents = any(leafParents,2);
+            reducedOntology = obj.reduceOntologyToIndexes(leafsAndParents);
+        end
+
+        function reducedOntology = reduceOntologyToIndexes(appears)
+            reducedOntology = ontology;
+            reducedOntology.dependecyMatrix = obj.dependecyMatrix(appears,appears);
+            reducedOntology.structureLabels = obj.structureLabels(appears,:);
+            reducedOntology.unDirectedDistanceMatrix = obj.unDirectedDistanceMatrix(appears,appears);
+            reducedOntology.directedDistanceMatrix = obj.directedDistanceMatrix(appears,appears);
+        %    reducedOntology.adjacancyMatrix = ontology.adjacancyMatrix(appears,appears);
+        %    reducedOntology.bellowThresholdIndices = ontology.bellowThresholdIndices(appears,appears);
+        %    reducedOntology.similarityMeasure = ontology.similarityMeasure(appears,appears);
+
+        end
+    end
+    
+end
