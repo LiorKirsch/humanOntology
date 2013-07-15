@@ -9,6 +9,7 @@ humanOntology.structureColors = hOntology.structureColors;
 humanOntology.recursiveStructure = hOntology.structuredObjects;
 humanOntology.directedDistanceMatrix = hOntology.directedDistanceMatrix;
 humanOntology.unDirectedDistanceMatrix = hOntology.unDirectedDistanceMatrix;
+humanOntology = humanOntology.distanceToCommonParent2();
 
 % tests 
 undirectedMatrix = humanOntology.getUndirectedMatrix();
