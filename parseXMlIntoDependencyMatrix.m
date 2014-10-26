@@ -1,8 +1,10 @@
 function parseXMlIntoDependencyMatrix(xmlFile)
-    xmlFile='Ontology.xml';
+    xmlFile='mouseOntology.xml';
     structureData = xml2struct(xmlFile);
     structuredObjects = createStructure(structureData.children);
-    save('humanOntology.mat','structuredObjects');
+    
+    save('mouseOntology.mat','structuredObjects');
+
 end
 
     

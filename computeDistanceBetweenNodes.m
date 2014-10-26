@@ -1,6 +1,8 @@
 function computeDistanceBetweenNodes()
+    ontologyFile = 'mouseOntology.mat';
+
     addpath('~/Projects/matlab_bgl')
-    load('humanOntology.mat','structuredObjects','dependecyMatrix','structureLabels');
+    load(ontologyFile,'structuredObjects','dependecyMatrix','structureLabels');
 
     undirectedMatrix = dependecyMatrix + dependecyMatrix';
     directedDistanceMatrix = nan(size(dependecyMatrix));
@@ -14,5 +16,5 @@ function computeDistanceBetweenNodes()
         
     end
     
-    save('humanOntology.mat','directedDistanceMatrix','unDirectedDistanceMatrix' ,'-append');
+    save(ontologyFile,'directedDistanceMatrix','unDirectedDistanceMatrix' ,'-append');
 end

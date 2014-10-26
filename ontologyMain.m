@@ -1,25 +1,25 @@
 clear;
-hOntology = load('humanOntology.mat');
+hOntology = load('mouseOntology.mat');
 
-humanOntology = ontology;
+ontologyObject = ontology;
 
-humanOntology.dependencyMatrix = hOntology.dependecyMatrix;
-humanOntology.structureLabels = hOntology.structureLabels;
-humanOntology.structureColors = hOntology.structureColors;
-humanOntology.recursiveStructure = hOntology.structuredObjects;
-humanOntology.directedDistanceMatrix = hOntology.directedDistanceMatrix;
-humanOntology.unDirectedDistanceMatrix = hOntology.unDirectedDistanceMatrix;
-humanOntology = humanOntology.distanceToCommonParent2();
+ontologyObject.dependencyMatrix = hOntology.dependecyMatrix;
+ontologyObject.structureLabels = hOntology.structureLabels;
+ontologyObject.structureColors = hOntology.structureColors;
+ontologyObject.recursiveStructure = hOntology.structuredObjects;
+ontologyObject.directedDistanceMatrix = hOntology.directedDistanceMatrix;
+ontologyObject.unDirectedDistanceMatrix = hOntology.unDirectedDistanceMatrix;
+ontologyObject = ontologyObject.distanceToCommonParent2();
 
 % tests 
-undirectedMatrix = humanOntology.getUndirectedMatrix();
-[allChilds, nodeLevel] = humanOntology.allChildNodes();
+undirectedMatrix = ontologyObject.getUndirectedMatrix();
+[allChilds, nodeLevel] = ontologyObject.allChildNodes();
 leafNames = {'Dentate Gyrus', 'paracentral lobule, anterior part, Left'};
-leafIndices = ismember(humanOntology.structureLabels(:,4), leafNames);
-reducedOntology = humanOntology.reduceToLeafAndParents(leafIndices);
+leafIndices = ismember(ontologyObject.structureLabels(:,4), leafNames);
+reducedOntology = ontologyObject.reduceToLeafAndParents(leafIndices);
 [allChilds2, nodeLevel2] = reducedOntology.allChildNodes();
 
-reducedOntology2 = humanOntology.reduceToNodeAndChilds([12]);
+reducedOntology2 = ontologyObject.reduceToNodeAndChilds([12]);
 [allChilds3, nodeLevel3] = reducedOntology.allChildNodes();
 
-save('humanOntologyObject.mat', 'humanOntology');
+save('mouseOntologyObject.mat', 'ontologyObject');

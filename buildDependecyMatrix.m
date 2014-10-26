@@ -1,5 +1,7 @@
 function buildDependecyMatrix()
-    load('humanOntology.mat','structuredObjects');
+    ontlogyFile = 'mouseOntology.mat';
+    
+    load(ontlogyFile,'structuredObjects');
    
     [structureLabels , structureColors] = getLabels(structuredObjects);
     dependecyMatrix = sparse(size(structureLabels,1), size(structureLabels,1));
@@ -7,7 +9,9 @@ function buildDependecyMatrix()
     
     assert(max(sum(dependecyMatrix,1)) ==1, 'every node must have exactly one father');
 
-    save('humanOntology.mat','structuredObjects','dependecyMatrix','structureLabels','structureColors');
+    structureLabels(:,4) = removeQuotation( structureLabels(:,4) );
+    structureLabels(:,3) = removeQuotation( structureLabels(:,3) );
+    save(ontlogyFile,'structuredObjects','dependecyMatrix','structureLabels','structureColors');
 end
 
 function [structureLabels, structureColors] = getLabels(node)
@@ -32,4 +36,19 @@ function depMatrix = buildDepMatrix(node, structureLabels, depMatrix)
             depMatrix = buildDepMatrix(childNode, structureLabels, depMatrix);
         end
     end
+end
+
+function cleanArray = removeQuotation(cellArrayOfStrings)
+    cleanArray = cell(size(cellArrayOfStrings));
+    
+    for i = 1:length(cellArrayOfStrings)
+       currentString = cellArrayOfStrings{i};
+       
+       if currentString(1) == '"' && currentString(end) == '"'
+           cleanArray{i} = currentString(2:end -1);
+       else
+           cleanArray{i} = currentString;
+       end
+    end
+
 end

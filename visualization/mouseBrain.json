@@ -1,0 +1,1480 @@
+
+ {"id":"997",   "name":"root--", "atlas_id":"", "data":{}, "children":[
+    {"id":"8",   "name":"Basic cell groups and regions--", "atlas_id":"", "data":{}, "children":[
+       {"id":"567",   "name":"Cerebrum--", "atlas_id":"", "data":{}, "children":[
+          {"id":"688",   "name":"Cerebral cortex--", "atlas_id":"", "data":{}, "children":[
+             {"id":"695",   "name":"Cortical plate--", "atlas_id":"", "data":{}, "children":[
+                {"id":"315",   "name":"Isocortex--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"184",   "name":"Frontal pole, cerebral cortex--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"68",   "name":"Frontal pole, layer 1--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"667",   "name":"Frontal pole, layer 2/3--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"500",   "name":"Somatomotor areas--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"107",   "name":"Somatomotor areas, Layer 1--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"219",   "name":"Somatomotor areas, Layer 2/3--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"299",   "name":"Somatomotor areas, Layer 5--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"644",   "name":"Somatomotor areas, Layer 6a--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"947",   "name":"Somatomotor areas, Layer 6b--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"985",   "name":"Primary motor area--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"320",   "name":"Primary motor area, Layer 1--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"943",   "name":"Primary motor area, Layer 2/3--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"648",   "name":"Primary motor area, Layer 5--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"844",   "name":"Primary motor area, Layer 6a--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"882",   "name":"Primary motor area, Layer 6b--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]},
+                      {"id":"993",   "name":"Secondary motor area--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"656",   "name":"Secondary motor area, layer 1--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"962",   "name":"Secondary motor area, layer 2/3--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"767",   "name":"Secondary motor area, layer 5--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"1021",   "name":"Secondary motor area, layer 6a--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"1085",   "name":"Secondary motor area, layer 6b--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]}
+                  ]},
+                   {"id":"453",   "name":"Somatosensory areas--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"12993",   "name":"Somatosensory areas, layer 1--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"12994",   "name":"Somatosensory areas, layer 2/3--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"12995",   "name":"Somatosensory areas, layer 4--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"12996",   "name":"Somatosensory areas, layer 5--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"12997",   "name":"Somatosensory areas, layer 6a--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"12998",   "name":"Somatosensory areas, layer 6b--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"322",   "name":"Primary somatosensory area--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"793",   "name":"Primary somatosensory area, layer 1--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"346",   "name":"Primary somatosensory area, layer 2/3--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"865",   "name":"Primary somatosensory area, layer 4--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"921",   "name":"Primary somatosensory area, layer 5--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"686",   "name":"Primary somatosensory area, layer 6a--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"719",   "name":"Primary somatosensory area, layer 6b--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"353",   "name":"Primary somatosensory area, nose--", "atlas_id":"", "data":{}, "children":[
+                            {"id":"558",   "name":"Primary somatosensory area, nose, layer 1--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"838",   "name":"Primary somatosensory area, nose, layer 2/3--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"654",   "name":"Primary somatosensory area, nose, layer 4--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"702",   "name":"Primary somatosensory area, nose, layer 5--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"889",   "name":"Primary somatosensory area, nose, layer 6a--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"929",   "name":"Primary somatosensory area, nose, layer 6b--", "atlas_id":"", "data":{}, "children":[                           ]}
+                        ]},
+                         {"id":"329",   "name":"Primary somatosensory area, barrel field--", "atlas_id":"", "data":{}, "children":[
+                            {"id":"981",   "name":"Primary somatosensory area, barrel field, layer 1--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"201",   "name":"Primary somatosensory area, barrel field, layer 2/3--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"1047",   "name":"Primary somatosensory area, barrel field, layer 4--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"1070",   "name":"Primary somatosensory area, barrel field, layer 5--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"1038",   "name":"Primary somatosensory area, barrel field, layer 6a--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"1062",   "name":"Primary somatosensory area, barrel field, layer 6b--", "atlas_id":"", "data":{}, "children":[                           ]}
+                        ]},
+                         {"id":"337",   "name":"Primary somatosensory area, lower limb--", "atlas_id":"", "data":{}, "children":[
+                            {"id":"1030",   "name":"Primary somatosensory area, lower limb, layer 1--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"113",   "name":"Primary somatosensory area, lower limb, layer 2/3--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"1094",   "name":"Primary somatosensory area, lower limb, layer 4--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"1128",   "name":"Primary somatosensory area, lower limb, layer 5--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"478",   "name":"Primary somatosensory area, lower limb, layer 6a--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"510",   "name":"Primary somatosensory area, lower limb, layer 6b--", "atlas_id":"", "data":{}, "children":[                           ]}
+                        ]},
+                         {"id":"345",   "name":"Primary somatosensory area, mouth--", "atlas_id":"", "data":{}, "children":[
+                            {"id":"878",   "name":"Primary somatosensory area, mouth, layer 1--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"657",   "name":"Primary somatosensory area, mouth, layer 2/3--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"950",   "name":"Primary somatosensory area, mouth, layer 4--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"974",   "name":"Primary somatosensory area, mouth, layer 5--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"1102",   "name":"Primary somatosensory area, mouth, layer 6a--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"2",   "name":"Primary somatosensory area, mouth, layer 6b--", "atlas_id":"", "data":{}, "children":[                           ]}
+                        ]},
+                         {"id":"369",   "name":"Primary somatosensory area, upper limb--", "atlas_id":"", "data":{}, "children":[
+                            {"id":"450",   "name":"Primary somatosensory area, upper limb, layer 1--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"854",   "name":"Primary somatosensory area, upper limb, layer 2/3--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"577",   "name":"Primary somatosensory area, upper limb, layer 4--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"625",   "name":"Primary somatosensory area, upper limb, layer 5--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"945",   "name":"Primary somatosensory area, upper limb, layer 6a--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"1026",   "name":"Primary somatosensory area, upper limb, layer 6b--", "atlas_id":"", "data":{}, "children":[                           ]}
+                        ]},
+                         {"id":"361",   "name":"Primary somatosensory area, trunk--", "atlas_id":"", "data":{}, "children":[
+                            {"id":"1006",   "name":"Primary somatosensory area, trunk, layer 1--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"670",   "name":"Primary somatosensory area, trunk, layer 2/3--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"1086",   "name":"Primary somatosensory area, trunk, layer 4--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"1111",   "name":"Primary somatosensory area, trunk, layer 5--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"9",   "name":"Primary somatosensory area, trunk, layer 6a--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"461",   "name":"Primary somatosensory area, trunk, layer 6b--", "atlas_id":"", "data":{}, "children":[                           ]}
+                        ]},
+                         {"id":"182305689",   "name":"Primary somatosensory area, unassigned--", "atlas_id":"", "data":{}, "children":[
+                            {"id":"182305693",   "name":"Primary somatosensory area, unassigned, layer 1--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"182305697",   "name":"Primary somatosensory area, unassigned, layer 2/3--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"182305701",   "name":"Primary somatosensory area, unassigned, layer 4--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"182305705",   "name":"Primary somatosensory area, unassigned, layer 5--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"182305709",   "name":"Primary somatosensory area, unassigned, layer 6a--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"182305713",   "name":"Primary somatosensory area, unassigned, layer 6b--", "atlas_id":"", "data":{}, "children":[                           ]}
+                        ]}
+                     ]},
+                      {"id":"378",   "name":"Supplemental somatosensory area--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"873",   "name":"Supplemental somatosensory area, layer 1--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"806",   "name":"Supplemental somatosensory area, layer 2/3--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"1035",   "name":"Supplemental somatosensory area, layer 4--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"1090",   "name":"Supplemental somatosensory area, layer 5--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"862",   "name":"Supplemental somatosensory area, layer 6a--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"893",   "name":"Supplemental somatosensory area, layer 6b--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]}
+                  ]},
+                   {"id":"1057",   "name":"Gustatory areas--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"36",   "name":"Gustatory areas, layer 1--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"180",   "name":"Gustatory areas, layer 2/3--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"148",   "name":"Gustatory areas, layer 4--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"187",   "name":"Gustatory areas, layer 5--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"638",   "name":"Gustatory areas, layer 6a--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"662",   "name":"Gustatory areas, layer 6b--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"677",   "name":"Visceral area--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"897",   "name":"Visceral area, layer 1--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"1106",   "name":"Visceral area, layer 2/3--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"1010",   "name":"Visceral area, layer 4--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"1058",   "name":"Visceral area, layer 5--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"857",   "name":"Visceral area, layer 6a--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"849",   "name":"Visceral area, layer 6b--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"247",   "name":"Auditory areas--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"1011",   "name":"Dorsal auditory area--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"527",   "name":"Dorsal auditory area, layer 1--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"600",   "name":"Dorsal auditory area, layer 2/3--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"678",   "name":"Dorsal auditory area, layer 4--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"252",   "name":"Dorsal auditory area, layer 5--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"156",   "name":"Dorsal auditory area, layer 6a--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"243",   "name":"Dorsal auditory area, layer 6b--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]},
+                      {"id":"1002",   "name":"Primary auditory area--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"735",   "name":"Primary auditory area, layer 1--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"251",   "name":"Primary auditory area, layer 2/3--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"816",   "name":"Primary auditory area, layer 4--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"847",   "name":"Primary auditory area, layer 5--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"954",   "name":"Primary auditory area, layer 6a--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"1005",   "name":"Primary auditory area, layer 6b--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]},
+                      {"id":"1027",   "name":"Posterior auditory area--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"696",   "name":"Posterior auditory area, layer 1--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"643",   "name":"Posterior auditory area, layer 2/3--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"759",   "name":"Posterior auditory area, layer 4--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"791",   "name":"Posterior auditory area, layer 5--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"249",   "name":"Posterior auditory area, layer 6a--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"456",   "name":"Posterior auditory area, layer 6b--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]},
+                      {"id":"1018",   "name":"Ventral auditory area--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"959",   "name":"Ventral auditory area, layer 1--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"755",   "name":"Ventral auditory area, layer 2/3--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"990",   "name":"Ventral auditory area, layer 4--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"1023",   "name":"Ventral auditory area, layer 5--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"520",   "name":"Ventral auditory area, layer 6a--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"598",   "name":"Ventral auditory area, layer 6b--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]}
+                  ]},
+                   {"id":"669",   "name":"Visual areas--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"801",   "name":"Visual areas, layer 1--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"561",   "name":"Visual areas, layer 2/3--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"913",   "name":"Visual areas, layer 4--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"937",   "name":"Visual areas, layer 5--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"457",   "name":"Visual areas, layer 6a--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"497",   "name":"Visual areas, layer 6b--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"402",   "name":"Anterolateral visual area--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"1074",   "name":"Anterolateral visual area, layer 1--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"905",   "name":"Anterolateral visual area, layer 2/3--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"1114",   "name":"Anterolateral visual area, layer 4--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"233",   "name":"Anterolateral visual area, layer 5--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"601",   "name":"Anterolateral visual area, layer 6a--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"649",   "name":"Anterolateral visual area, layer 6b--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]},
+                      {"id":"394",   "name":"Anteromedial visual area--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"281",   "name":"Anteromedial visual area, layer 1--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"1066",   "name":"Anteromedial visual area, layer 2/3--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"401",   "name":"Anteromedial visual area, layer 4--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"433",   "name":"Anteromedial visual area, layer 5--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"1046",   "name":"Anteromedial visual area, layer 6a--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"441",   "name":"Anteromedial visual area, layer 6b--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]},
+                      {"id":"409",   "name":"Lateral visual area--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"421",   "name":"Lateral visual area, layer 1--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"973",   "name":"Lateral visual area, layer 2/3--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"573",   "name":"Lateral visual area, layer 4--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"613",   "name":"Lateral visual area, layer 5--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"74",   "name":"Lateral visual area, layer 6a--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"121",   "name":"Lateral visual area, layer 6b--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]},
+                      {"id":"385",   "name":"Primary visual area--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"593",   "name":"Primary visual area, layer 1--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"821",   "name":"Primary visual area, layer 2/3--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"721",   "name":"Primary visual area, layer 4--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"778",   "name":"Primary visual area, layer 5--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"33",   "name":"Primary visual area, layer 6a--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"305",   "name":"Primary visual area, layer 6b--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]},
+                      {"id":"425",   "name":"Posterolateral visual area--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"750",   "name":"Posterolateral visual area, layer 1--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"269",   "name":"Posterolateral visual area, layer 2/3--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"869",   "name":"Posterolateral visual area, layer 4--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"902",   "name":"Posterolateral visual area, layer 5--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"377",   "name":"Posterolateral visual area, layer 6a--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"393",   "name":"Posterolateral visual area, layer 6b--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]},
+                      {"id":"533",   "name":"posteromedial visual area--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"805",   "name":"posteromedial visual area, layer 1--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"41",   "name":"posteromedial visual area, layer 2/3--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"501",   "name":"posteromedial visual area, layer 4--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"565",   "name":"posteromedial visual area, layer 5--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"257",   "name":"posteromedial visual area, layer 6a--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"469",   "name":"posteromedial visual area, layer 6b--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]}
+                  ]},
+                   {"id":"31",   "name":"Anterior cingulate area--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"572",   "name":"Anterior cingulate area, layer 1--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"1053",   "name":"Anterior cingulate area, layer 2/3--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"739",   "name":"Anterior cingulate area, layer 5--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"179",   "name":"Anterior cingulate area, layer 6a--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"227",   "name":"Anterior cingulate area, layer 6b--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"39",   "name":"Anterior cingulate area, dorsal part--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"935",   "name":"Anterior cingulate area, dorsal part, layer 1--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"211",   "name":"Anterior cingulate area, dorsal part, layer 2/3--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"1015",   "name":"Anterior cingulate area, dorsal part, layer 5--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"919",   "name":"Anterior cingulate area, dorsal part, layer 6a--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"927",   "name":"Anterior cingulate area, dorsal part, layer 6b--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]},
+                      {"id":"48",   "name":"Anterior cingulate area, ventral part--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"588",   "name":"Anterior cingulate area, ventral part, layer 1--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"296",   "name":"Anterior cingulate area, ventral part, layer 2/3--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"772",   "name":"Anterior cingulate area, ventral part, layer 5--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"810",   "name":"Anterior cingulate area, ventral part, 6a--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"819",   "name":"Anterior cingulate area, ventral part, 6b--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]}
+                  ]},
+                   {"id":"972",   "name":"Prelimbic area--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"171",   "name":"Prelimbic area, layer 1--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"195",   "name":"Prelimbic area, layer 2--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"304",   "name":"Prelimbic area, layer 2/3--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"363",   "name":"Prelimbic area, layer 5--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"84",   "name":"Prelimbic area, layer 6a--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"132",   "name":"Prelimbic area, layer 6b--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"44",   "name":"Infralimbic area--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"707",   "name":"Infralimbic area, layer 1--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"747",   "name":"Infralimbic area, layer 2--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"556",   "name":"Infralimbic area, layer 2/3--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"827",   "name":"Infralimbic area, layer 5--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"1054",   "name":"Infralimbic area, layer 6a--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"1081",   "name":"Infralimbic area, layer 6b--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"714",   "name":"Orbital area--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"264",   "name":"Orbital area, layer 1--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"492",   "name":"Orbital area, layer 2/3--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"352",   "name":"Orbital area, layer 5--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"476",   "name":"Orbital area, layer 6a--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"516",   "name":"Orbital area, layer 6b--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"723",   "name":"Orbital area, lateral part--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"448",   "name":"Orbital area, lateral part, layer 1--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"412",   "name":"Orbital area, lateral part, layer 2/3--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"630",   "name":"Orbital area, lateral part, layer 5--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"440",   "name":"Orbital area, lateral part, layer 6a--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"488",   "name":"Orbital area, lateral part, layer 6b--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]},
+                      {"id":"731",   "name":"Orbital area, medial part--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"484",   "name":"Orbital area, medial part, layer 1--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"524",   "name":"Orbital area, medial part, layer 2--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"582",   "name":"Orbital area, medial part, layer 2/3--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"620",   "name":"Orbital area, medial part, layer 5--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"910",   "name":"Orbital area, medial part, layer 6a--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]},
+                      {"id":"738",   "name":"Orbital area, ventral part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"746",   "name":"Orbital area, ventrolateral part--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"969",   "name":"Orbital area, ventrolateral part, layer 1--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"288",   "name":"Orbital area, ventrolateral part, layer 2/3--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"1125",   "name":"Orbital area, ventrolateral part, layer 5--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"608",   "name":"Orbital area, ventrolateral part, layer 6a--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"680",   "name":"Orbital area, ventrolateral part, layer 6b--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]}
+                  ]},
+                   {"id":"95",   "name":"Agranular insular area--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"104",   "name":"Agranular insular area, dorsal part--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"996",   "name":"Agranular insular area, dorsal part, layer 1--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"328",   "name":"Agranular insular area, dorsal part, layer 2/3--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"1101",   "name":"Agranular insular area, dorsal part, layer 5--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"783",   "name":"Agranular insular area, dorsal part, layer 6a--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"831",   "name":"Agranular insular area, dorsal part, layer 6b--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]},
+                      {"id":"111",   "name":"Agranular insular area, posterior part--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"120",   "name":"Agranular insular area, posterior part, layer 1--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"163",   "name":"Agranular insular area, posterior part, layer 2/3--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"344",   "name":"Agranular insular area, posterior part, layer 5--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"314",   "name":"Agranular insular area, posterior part, layer 6a--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"355",   "name":"Agranular insular area, posterior part, layer 6b--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]},
+                      {"id":"119",   "name":"Agranular insular area, ventral part--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"704",   "name":"Agranular insular area, ventral part, layer 1--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"694",   "name":"Agranular insular area, ventral part, layer 2/3--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"800",   "name":"Agranular insular area, ventral part, layer 5--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"675",   "name":"Agranular insular area, ventral part, layer 6a--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"699",   "name":"Agranular insular area, ventral part, layer 6b--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]}
+                  ]},
+                   {"id":"254",   "name":"Retrosplenial area--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"894",   "name":"Retrosplenial area, lateral agranular part--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"671",   "name":"Retrosplenial area, lateral agranular part, layer 1--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"965",   "name":"Retrosplenial area, lateral agranular part, layer 2/3--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"774",   "name":"Retrosplenial area, lateral agranular part, layer 5--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"906",   "name":"Retrosplenial area, lateral agranular part, layer 6a--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"279",   "name":"Retrosplenial area, lateral agranular part, layer 6b--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]},
+                      {"id":"879",   "name":"Retrosplenial area, dorsal part--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"442",   "name":"Retrosplenial area, dorsal part, layer 1--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"434",   "name":"Retrosplenial area, dorsal part, layer 2/3--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"545",   "name":"Retrosplenial area, dorsal part, layer 4--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"610",   "name":"Retrosplenial area, dorsal part, layer 5--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"274",   "name":"Retrosplenial area, dorsal part, layer 6a--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"330",   "name":"Retrosplenial area, dorsal part, layer 6b--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]},
+                      {"id":"886",   "name":"Retrosplenial area, ventral part--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"542",   "name":"Retrosplenial area, ventral part, layer 1--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"606",   "name":"Retrosplenial area, ventral part, layer 2--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"430",   "name":"Retrosplenial area, ventral part, layer 2/3--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"687",   "name":"Retrosplenial area, ventral part, layer 5--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"590",   "name":"Retrosplenial area, ventral part, layer 6a--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"622",   "name":"Retrosplenial area, ventral part, layer 6b--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]}
+                  ]},
+                   {"id":"22",   "name":"Posterior parietal association areas--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"532",   "name":"Posterior parietal association areas, layer 1--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"241",   "name":"Posterior parietal association areas, layer 2/3--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"635",   "name":"Posterior parietal association areas, layer 4--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"683",   "name":"Posterior parietal association areas, layer 5--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"308",   "name":"Posterior parietal association areas, layer 6a--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"340",   "name":"Posterior parietal association areas, layer 6b--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"541",   "name":"Temporal association areas--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"97",   "name":"Temporal association areas, layer 1--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"1127",   "name":"Temporal association areas, layer 2/3--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"234",   "name":"Temporal association areas, layer 4--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"289",   "name":"Temporal association areas, layer 5--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"729",   "name":"Temporal association areas, layer 6a--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"786",   "name":"Temporal association areas, layer 6b--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"922",   "name":"Perirhinal area--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"335",   "name":"Perirhinal area, layer 6a--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"368",   "name":"Perirhinal area, layer 6b--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"540",   "name":"Perirhinal area, layer 1--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"692",   "name":"Perirhinal area, layer 5--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"888",   "name":"Perirhinal area, layer 2/3--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"895",   "name":"Ectorhinal area--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"836",   "name":"Ectorhinal area/Layer 1--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"427",   "name":"Ectorhinal area/Layer 2/3--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"988",   "name":"Ectorhinal area/Layer 5--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"977",   "name":"Ectorhinal area/Layer 6a--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"1045",   "name":"Ectorhinal area/Layer 6b--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]}
+               ]},
+                {"id":"698",   "name":"Olfactory areas--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"507",   "name":"Main olfactory bulb--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"212",   "name":"Main olfactory bulb, glomerular layer--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"220",   "name":"Main olfactory bulb, granule layer--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"228",   "name":"Main olfactory bulb, inner plexiform layer--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"236",   "name":"Main olfactory bulb, mitral layer--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"244",   "name":"Main olfactory bulb, outer plexiform layer--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"151",   "name":"Accessory olfactory bulb--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"188",   "name":"Accessory olfactory bulb, glomerular layer--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"196",   "name":"Accessory olfactory bulb, granular layer--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"204",   "name":"Accessory olfactory bulb, mitral layer--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"159",   "name":"Anterior olfactory nucleus--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"167",   "name":"Anterior olfactory nucleus, dorsal part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"175",   "name":"Anterior olfactory nucleus, external part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"183",   "name":"Anterior olfactory nucleus, lateral part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"191",   "name":"Anterior olfactory nucleus, medial part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"199",   "name":"Anterior olfactory nucleus, posteroventral part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"160",   "name":"Anterior olfactory nucleus, layer 1--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"168",   "name":"Anterior olfactory nucleus, layer 2--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"589",   "name":"Taenia tecta--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"597",   "name":"Taenia tecta, dorsal part--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"297",   "name":"Taenia tecta, dorsal part, layers 1-4--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"1034",   "name":"Taenia tecta, dorsal part, layer 1--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"1042",   "name":"Taenia tecta, dorsal part, layer 2--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"1050",   "name":"Taenia tecta, dorsal part, layer 3--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"1059",   "name":"Taenia tecta, dorsal part, layer 4--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]},
+                      {"id":"605",   "name":"Taenia tecta, ventral part--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"306",   "name":"Taenia tecta, ventral part, layers 1-3--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"1067",   "name":"Taenia tecta, ventral part, layer 1--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"1075",   "name":"Taenia tecta, ventral part, layer 2--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"1082",   "name":"Taenia tecta, ventral part, layer 3--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]}
+                  ]},
+                   {"id":"814",   "name":"Dorsal peduncular area--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"496",   "name":"Dorsal peduncular area, layer 1--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"535",   "name":"Dorsal peduncular area, layer 2--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"360",   "name":"Dorsal peduncular area, layer 2/3--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"646",   "name":"Dorsal peduncular area, layer 5--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"267",   "name":"Dorsal peduncular area, layer 6a--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"961",   "name":"Piriform area--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"152",   "name":"Piriform area, layers 1-3--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"276",   "name":"Piriform area, molecular layer--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"284",   "name":"Piriform area, pyramidal layer--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"291",   "name":"Piriform area, polymorph layer--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"619",   "name":"Nucleus of the lateral olfactory tract--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"392",   "name":"Nucleus of the lateral olfactory tract, layers 1-3--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"260",   "name":"Nucleus of the lateral olfactory tract, molecular layer--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"268",   "name":"Nucleus of the lateral olfactory tract, pyramidal layer--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"1139",   "name":"Nucleus of the lateral olfactory tract, layer 3--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"631",   "name":"Cortical amygdalar area--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"639",   "name":"Cortical amygdalar area, anterior part--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"192",   "name":"Cortical amygdalar area, anterior part, layer 1--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"200",   "name":"Cortical amygdalar area, anterior part, layer 2--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"208",   "name":"Cortical amygdalar area, anterior part, layer 3--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]},
+                      {"id":"647",   "name":"Cortical amygdalar area, posterior part--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"655",   "name":"Cortical amygdalar area, posterior part, lateral zone--", "atlas_id":"", "data":{}, "children":[
+                            {"id":"584",   "name":"Cortical amygdalar area, posterior part, lateral zone, layers 1-2--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"376",   "name":"Cortical amygdalar area, posterior part, lateral zone, layers 1-3--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"216",   "name":"Cortical amygdalar area, posterior part, lateral zone, layer 1--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"224",   "name":"Cortical amygdalar area, posterior part, lateral zone, layer 2--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"232",   "name":"Cortical amygdalar area, posterior part, lateral zone, layer 3--", "atlas_id":"", "data":{}, "children":[                           ]}
+                        ]},
+                         {"id":"663",   "name":"Cortical amygdalar area, posterior part, medial zone--", "atlas_id":"", "data":{}, "children":[
+                            {"id":"592",   "name":"Cortical amygdalar area, posterior part, medial zone, layers 1-2--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"383",   "name":"Cortical amygdalar area, posterior part, medial zone, layers 1-3--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"240",   "name":"Cortical amygdalar area, posterior part, medial zone, layer 1--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"248",   "name":"Cortical amygdalar area, posterior part, medial zone, layer 2--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"256",   "name":"Cortical amygdalar area, posterior part, medial zone, layer 3--", "atlas_id":"", "data":{}, "children":[                           ]}
+                        ]}
+                     ]}
+                  ]},
+                   {"id":"788",   "name":"Piriform-amygdalar area--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"400",   "name":"Piriform-amygdalar area, layers 1-3--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"408",   "name":"Piriform-amygdalar area, molecular layer--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"416",   "name":"Piriform-amygdalar area, pyramidal layer--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"424",   "name":"Piriform-amygdalar area, polymorph layer--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"566",   "name":"Postpiriform transition area--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"517",   "name":"Postpiriform transition area, layers 1-3--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"1140",   "name":"Postpiriform transition area, layers 1--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"1141",   "name":"Postpiriform transition area, layers 2--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"1142",   "name":"Postpiriform transition area, layers 3--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]}
+               ]},
+                {"id":"1089",   "name":"Hippocampal formation--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"1080",   "name":"Hippocampal region--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"375",   "name":"Ammon's horn--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"382",   "name":"Field CA1--", "atlas_id":"", "data":{}, "children":[
+                            {"id":"391",   "name":"Field CA1, stratum lacunosum-moleculare--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"399",   "name":"Field CA1, stratum oriens--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"407",   "name":"Field CA1, pyramidal layer--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"415",   "name":"Field CA1, stratum radiatum--", "atlas_id":"", "data":{}, "children":[                           ]}
+                        ]},
+                         {"id":"423",   "name":"Field CA2--", "atlas_id":"", "data":{}, "children":[
+                            {"id":"431",   "name":"Field CA2, stratum lacunosum-moleculare--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"438",   "name":"Field CA2, stratum oriens--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"446",   "name":"Field CA2, pyramidal layer--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"454",   "name":"Field CA2, stratum radiatum--", "atlas_id":"", "data":{}, "children":[                           ]}
+                        ]},
+                         {"id":"463",   "name":"Field CA3--", "atlas_id":"", "data":{}, "children":[
+                            {"id":"471",   "name":"Field CA3, stratum lacunosum-moleculare--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"479",   "name":"Field CA3, stratum lucidum--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"486",   "name":"Field CA3, stratum oriens--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"495",   "name":"Field CA3, pyramidal layer--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"504",   "name":"Field CA3, stratum radiatum--", "atlas_id":"", "data":{}, "children":[                           ]}
+                        ]}
+                     ]},
+                      {"id":"726",   "name":"Dentate gyrus--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"10703",   "name":"Dentate gyrus, molecular layer--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"10704",   "name":"Dentate gyrus, polymorph layer--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"632",   "name":"Dentate gyrus, granule cell layer--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"10702",   "name":"Dentate gyrus, subgranular zone--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"734",   "name":"Dentate gyrus crest--", "atlas_id":"", "data":{}, "children":[
+                            {"id":"742",   "name":"Dentate gyrus crest, molecular layer--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"751",   "name":"Dentate gyrus crest, polymorph layer--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"758",   "name":"Dentate gyrus crest, granule cell layer--", "atlas_id":"", "data":{}, "children":[                           ]}
+                        ]},
+                         {"id":"766",   "name":"Dentate gyrus lateral blade--", "atlas_id":"", "data":{}, "children":[
+                            {"id":"775",   "name":"Dentate gyrus lateral blade, molecular layer--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"782",   "name":"Dentate gyrus lateral blade, polymorph layer--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"790",   "name":"Dentate gyrus lateral blade, granule cell layer--", "atlas_id":"", "data":{}, "children":[                           ]}
+                        ]},
+                         {"id":"799",   "name":"Dentate gyrus medial blade--", "atlas_id":"", "data":{}, "children":[
+                            {"id":"807",   "name":"Dentate gyrus medial blade, molecular layer--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"815",   "name":"Dentate gyrus medial blade, polymorph layer--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"823",   "name":"Dentate gyrus medial blade, granule cell layer--", "atlas_id":"", "data":{}, "children":[                           ]}
+                        ]}
+                     ]},
+                      {"id":"982",   "name":"Fasciola cinerea--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"19",   "name":"Induseum griseum--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"822",   "name":"Retrohippocampal region--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"909",   "name":"Entorhinal area--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"918",   "name":"Entorhinal area, lateral part--", "atlas_id":"", "data":{}, "children":[
+                            {"id":"1121",   "name":"Entorhinal area, lateral part, layer 1--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"20",   "name":"Entorhinal area, lateral part, layer 2--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"999",   "name":"Entorhinal area, lateral part, layer 2/3--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"715",   "name":"Entorhinal area, lateral part, layer 2a--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"764",   "name":"Entorhinal area, lateral part, layer 2b--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"52",   "name":"Entorhinal area, lateral part, layer 3--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"92",   "name":"Entorhinal area, lateral part, layer 4--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"312",   "name":"Entorhinal area, lateral part, layer 4/5--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"139",   "name":"Entorhinal area, lateral part, layer 5--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"387",   "name":"Entorhinal area, lateral part, layer 5/6--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"28",   "name":"Entorhinal area, lateral part, layer 6a--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"60",   "name":"Entorhinal area, lateral part, layer 6b--", "atlas_id":"", "data":{}, "children":[                           ]}
+                        ]},
+                         {"id":"926",   "name":"Entorhinal area, medial part, dorsal zone--", "atlas_id":"", "data":{}, "children":[
+                            {"id":"526",   "name":"Entorhinal area, medial part, dorsal zone, layer 1--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"543",   "name":"Entorhinal area, medial part, dorsal zone, layer 2--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"468",   "name":"Entorhinal area, medial part, dorsal zone, layer 2a--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"508",   "name":"Entorhinal area, medial part, dorsal zone, layer 2b--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"664",   "name":"Entorhinal area, medial part, dorsal zone, layer 3--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"712",   "name":"Entorhinal area, medial part, dorsal zone, layer 4--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"727",   "name":"Entorhinal area, medial part, dorsal zone, layer 5--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"550",   "name":"Entorhinal area, medial part, dorsal zone, layer 5/6--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"743",   "name":"Entorhinal area, medial part, dorsal zone, layer 6--", "atlas_id":"", "data":{}, "children":[                           ]}
+                        ]},
+                         {"id":"934",   "name":"Entorhinal area, medial part, ventral zone--", "atlas_id":"", "data":{}, "children":[
+                            {"id":"259",   "name":"Entorhinal area, medial part, ventral zone, layer 1--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"324",   "name":"Entorhinal area, medial part, ventral zone, layer 2--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"371",   "name":"Entorhinal area, medial part, ventral zone, layer 3--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"419",   "name":"Entorhinal area, medial part, ventral zone, layer 4--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"1133",   "name":"Entorhinal area, medial part, ventral zone, layer 5/6--", "atlas_id":"", "data":{}, "children":[                           ]}
+                        ]}
+                     ]},
+                      {"id":"843",   "name":"Parasubiculum--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"10693",   "name":"Parasubiculum, layer 1--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"10694",   "name":"Parasubiculum, layer 2--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"10695",   "name":"Parasubiculum, layer 3--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]},
+                      {"id":"1037",   "name":"Postsubiculum--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"10696",   "name":"Postsubiculum, layer 1--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"10697",   "name":"Postsubiculum, layer 2--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"10698",   "name":"Postsubiculum, layer 3--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]},
+                      {"id":"1084",   "name":"Presubiculum--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"10699",   "name":"Presubiculum, layer 1--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"10700",   "name":"Presubiculum, layer 2--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"10701",   "name":"Presubiculum, layer 3--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]},
+                      {"id":"502",   "name":"Subiculum--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"509",   "name":"Subiculum, dorsal part--", "atlas_id":"", "data":{}, "children":[
+                            {"id":"829",   "name":"Subiculum, dorsal part, molecular layer--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"845",   "name":"Subiculum, dorsal part, pyramidal layer--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"837",   "name":"Subiculum, dorsal part, stratum radiatum--", "atlas_id":"", "data":{}, "children":[                           ]}
+                        ]},
+                         {"id":"518",   "name":"Subiculum, ventral part--", "atlas_id":"", "data":{}, "children":[
+                            {"id":"853",   "name":"Subiculum, ventral part, molecular layer--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"870",   "name":"Subiculum, ventral part, pyramidal layer--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"861",   "name":"Subiculum, ventral part, stratum radiatum--", "atlas_id":"", "data":{}, "children":[                           ]}
+                        ]}
+                     ]}
+                  ]}
+               ]}
+            ]},
+             {"id":"703",   "name":"Cortical subplate--", "atlas_id":"", "data":{}, "children":[
+                {"id":"16",   "name":"Layer 6b, isocortex--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"583",   "name":"Claustrum--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"942",   "name":"Endopiriform nucleus--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"952",   "name":"Endopiriform nucleus, dorsal part--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"966",   "name":"Endopiriform nucleus, ventral part--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"131",   "name":"Lateral amygdalar nucleus--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"295",   "name":"Basolateral amygdalar nucleus--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"303",   "name":"Basolateral amygdalar nucleus, anterior part--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"311",   "name":"Basolateral amygdalar nucleus, posterior part--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"451",   "name":"Basolateral amygdalar nucleus, ventral part--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"319",   "name":"Basomedial amygdalar nucleus--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"327",   "name":"Basomedial amygdalar nucleus, anterior part--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"334",   "name":"Basomedial amygdalar nucleus, posterior part--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"780",   "name":"Posterior amygdalar nucleus--", "atlas_id":"", "data":{}, "children":[               ]}
+            ]}
+         ]},
+          {"id":"623",   "name":"Cerebral nuclei--", "atlas_id":"", "data":{}, "children":[
+             {"id":"477",   "name":"Striatum--", "atlas_id":"", "data":{}, "children":[
+                {"id":"485",   "name":"Striatum dorsal region--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"672",   "name":"Caudoputamen--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"493",   "name":"Striatum ventral region--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"56",   "name":"Nucleus accumbens--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"998",   "name":"Fundus of striatum--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"754",   "name":"Olfactory tubercle--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"481",   "name":"Islands of Calleja--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"489",   "name":"Major island of Calleja--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"144",   "name":"Olfactory tubercle, layers 1-3--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"458",   "name":"Olfactory tubercle, molecular layer--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"465",   "name":"Olfactory tubercle, pyramidal layer--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"473",   "name":"Olfactory tubercle, polymorph layer--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]}
+               ]},
+                {"id":"275",   "name":"Lateral septal complex--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"242",   "name":"Lateral septal nucleus--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"250",   "name":"Lateral septal nucleus, caudal (caudodorsal) part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"258",   "name":"Lateral septal nucleus, rostral (rostroventral) part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"266",   "name":"Lateral septal nucleus, ventral part--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"310",   "name":"Septofimbrial nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"333",   "name":"Septohippocampal nucleus--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"278",   "name":"Striatum-like amygdalar nuclei--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"23",   "name":"Anterior amygdalar area--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"292",   "name":"Bed nucleus of the accessory olfactory tract--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"536",   "name":"Central amygdalar nucleus--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"544",   "name":"Central amygdalar nucleus, capsular part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"551",   "name":"Central amygdalar nucleus, lateral part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"559",   "name":"Central amygdalar nucleus, medial part--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"1105",   "name":"Intercalated amygdalar nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"403",   "name":"Medial amygdalar nucleus--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"411",   "name":"Medial amygdalar nucleus, anterodorsal part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"418",   "name":"Medial amygdalar nucleus, anteroventral part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"426",   "name":"Medial amygdalar nucleus, posterodorsal part--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"472",   "name":"Medial amygdalar nucleus, posterodorsal part, sublayer a--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"480",   "name":"Medial amygdalar nucleus, posterodorsal part, sublayer b--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"487",   "name":"Medial amygdalar nucleus, posterodorsal part, sublayer c--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]},
+                      {"id":"435",   "name":"Medial amygdalar nucleus, posteroventral part--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]}
+               ]}
+            ]},
+             {"id":"803",   "name":"Pallidum--", "atlas_id":"", "data":{}, "children":[
+                {"id":"818",   "name":"Pallidum, dorsal region--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"1022",   "name":"Globus pallidus, external segment--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"1031",   "name":"Globus pallidus, internal segment--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"835",   "name":"Pallidum, ventral region--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"342",   "name":"Substantia innominata--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"298",   "name":"Magnocellular nucleus--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"826",   "name":"Pallidum, medial region--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"904",   "name":"Medial septal complex--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"564",   "name":"Medial septal nucleus--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"596",   "name":"Diagonal band nucleus--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"581",   "name":"Triangular nucleus of septum--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"809",   "name":"Pallidum, caudal region--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"351",   "name":"Bed nuclei of the stria terminalis--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"359",   "name":"Bed nuclei of the stria terminalis, anterior division--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"537",   "name":"Bed nuclei of the stria terminalis, anterior division, anterolateral area--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"498",   "name":"Bed nuclei of the stria terminalis, anterior division, anteromedial area--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"505",   "name":"Bed nuclei of the stria terminalis, anterior division, dorsomedial nucleus--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"513",   "name":"Bed nuclei of the stria terminalis, anterior division, fusiform nucleus--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"546",   "name":"Bed nuclei of the stria terminalis, anterior division, juxtacapsular nucleus--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"521",   "name":"Bed nuclei of the stria terminalis, anterior division, magnocellular nucleus--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"554",   "name":"Bed nuclei of the stria terminalis, anterior division, oval nucleus--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"562",   "name":"Bed nuclei of the stria terminalis, anterior division, rhomboid nucleus--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"529",   "name":"Bed nuclei of the stria terminalis, anterior division, ventral nucleus--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]},
+                      {"id":"367",   "name":"Bed nuclei of the stria terminalis, posterior division--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"569",   "name":"Bed nuclei of the stria terminalis, posterior division, dorsal nucleus--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"578",   "name":"Bed nuclei of the stria terminalis, posterior division, principal nucleus--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"585",   "name":"Bed nuclei of the stria terminalis, posterior division, interfascicular nucleus--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"594",   "name":"Bed nuclei of the stria terminalis, posterior division, transverse nucleus--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"602",   "name":"Bed nuclei of the stria terminalis, posterior division, strial extension--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]}
+                  ]},
+                   {"id":"287",   "name":"Bed nucleus of the anterior commissure--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]}
+            ]}
+         ]}
+      ]},
+       {"id":"343",   "name":"Brain stem--", "atlas_id":"", "data":{}, "children":[
+          {"id":"1129",   "name":"Interbrain--", "atlas_id":"", "data":{}, "children":[
+             {"id":"549",   "name":"Thalamus--", "atlas_id":"", "data":{}, "children":[
+                {"id":"864",   "name":"Thalamus, sensory-motor cortex related--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"637",   "name":"Ventral group of the dorsal thalamus--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"629",   "name":"Ventral anterior-lateral complex of the thalamus--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"685",   "name":"Ventral medial nucleus of the thalamus--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"709",   "name":"Ventral posterior complex of the thalamus--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"718",   "name":"Ventral posterolateral nucleus of the thalamus--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"725",   "name":"Ventral posterolateral nucleus of the thalamus, parvicellular part--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"733",   "name":"Ventral posteromedial nucleus of the thalamus--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"741",   "name":"Ventral posteromedial nucleus of the thalamus, parvicellular part--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]}
+                  ]},
+                   {"id":"406",   "name":"Subparafascicular nucleus--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"414",   "name":"Subparafascicular nucleus, magnocellular part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"422",   "name":"Subparafascicular nucleus, parvicellular part--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"609",   "name":"Subparafascicular area--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"1044",   "name":"Peripeduncular nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"1008",   "name":"Geniculate group, dorsal thalamus--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"475",   "name":"Medial geniculate complex--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"1072",   "name":"Medial geniculate complex, dorsal part--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"1079",   "name":"Medial geniculate complex, ventral part--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"1088",   "name":"Medial geniculate complex, medial part--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]},
+                      {"id":"170",   "name":"Dorsal part of the lateral geniculate complex--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]}
+               ]},
+                {"id":"856",   "name":"Thalamus, polymodal association cortex related--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"138",   "name":"Lateral group of the dorsal thalamus--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"218",   "name":"Lateral posterior nucleus of the thalamus--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"1020",   "name":"Posterior complex of the thalamus--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"1029",   "name":"Posterior limiting nucleus of the thalamus--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"325",   "name":"Suprageniculate nucleus--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"239",   "name":"Anterior group of the dorsal thalamus--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"255",   "name":"Anteroventral nucleus of thalamus--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"127",   "name":"Anteromedial nucleus--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"1096",   "name":"Anteromedial nucleus, dorsal part--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"1104",   "name":"Anteromedial nucleus, ventral part--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]},
+                      {"id":"64",   "name":"Anterodorsal nucleus--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"1120",   "name":"Interanteromedial nucleus of the thalamus--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"1113",   "name":"Interanterodorsal nucleus of the thalamus--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"155",   "name":"Lateral dorsal nucleus of thalamus--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"444",   "name":"Medial group of the dorsal thalamus--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"59",   "name":"Intermediodorsal nucleus of the thalamus--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"362",   "name":"Mediodorsal nucleus of thalamus--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"617",   "name":"Mediodorsal nucleus of the thalamus, central part--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"626",   "name":"Mediodorsal nucleus of the thalamus, lateral part--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"636",   "name":"Mediodorsal nucleus of the thalamus, medial part--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]},
+                      {"id":"366",   "name":"Submedial nucleus of the thalamus--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"1077",   "name":"Perireunensis nucleus--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"571",   "name":"Midline group of the dorsal thalamus--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"149",   "name":"Paraventricular nucleus of the thalamus--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"15",   "name":"Parataenial nucleus--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"181",   "name":"Nucleus of reunions--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"51",   "name":"Intralaminar nuclei of the dorsal thalamus--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"189",   "name":"Rhomboid nucleus--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"599",   "name":"Central medial nucleus of the thalamus--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"907",   "name":"Paracentral nucleus--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"575",   "name":"Central lateral nucleus of the thalamus--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"930",   "name":"Parafascicular nucleus--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"262",   "name":"Reticular nucleus of the thalamus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"1014",   "name":"Geniculate group, ventral thalamus--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"27",   "name":"Intergeniculate leaflet of the lateral geniculate complex--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"178",   "name":"Ventral part of the lateral geniculate complex--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"300",   "name":"Ventral part of the lateral geniculate complex, lateral zone--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"316",   "name":"Ventral part of the lateral geniculate complex, medial zone--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]},
+                      {"id":"321",   "name":"Subgeniculate nucleus--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"958",   "name":"Epithalamus--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"483",   "name":"Medial habenula--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"186",   "name":"Lateral habenula--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"953",   "name":"Pineal body--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]}
+               ]}
+            ]},
+             {"id":"1097",   "name":"Hypothalamus--", "atlas_id":"", "data":{}, "children":[
+                {"id":"157",   "name":"Periventricular zone--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"390",   "name":"Supraoptic nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"332",   "name":"Accessory supraoptic group--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"432",   "name":"Nucleus circularis--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"38",   "name":"Paraventricular hypothalamic nucleus--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"71",   "name":"Paraventricular hypothalamic nucleus, magnocellular division--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"47",   "name":"Paraventricular hypothalamic nucleus, magnocellular division, anterior magnocellular part--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"79",   "name":"Paraventricular hypothalamic nucleus, magnocellular division, medial magnocellular part--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"103",   "name":"Paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part--", "atlas_id":"", "data":{}, "children":[
+                            {"id":"652",   "name":"Paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part, lateral zone--", "atlas_id":"", "data":{}, "children":[                           ]},
+                            {"id":"660",   "name":"Paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part, medial zone--", "atlas_id":"", "data":{}, "children":[                           ]}
+                        ]}
+                     ]},
+                      {"id":"94",   "name":"Paraventricular hypothalamic nucleus, parvicellular division--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"55",   "name":"Paraventricular hypothalamic nucleus, parvicellular division, anterior parvicellular part--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"87",   "name":"Paraventricular hypothalamic nucleus, parvicellular division, medial parvicellular part, dorsal zone--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"110",   "name":"Paraventricular hypothalamic nucleus, parvicellular division, periventricular part--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]}
+                  ]},
+                   {"id":"30",   "name":"Periventricular hypothalamic nucleus, anterior part--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"118",   "name":"Periventricular hypothalamic nucleus, intermediate part--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"223",   "name":"Arcuate hypothalamic nucleus--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"141",   "name":"Periventricular region--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"72",   "name":"Anterodorsal preoptic nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"80",   "name":"Anterior hypothalamic area--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"263",   "name":"Anteroventral preoptic nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"272",   "name":"Anteroventral periventricular nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"830",   "name":"Dorsomedial nucleus of the hypothalamus--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"668",   "name":"Dorsomedial nucleus of the hypothalamus, anterior part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"676",   "name":"Dorsomedial nucleus of the hypothalamus, posterior part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"684",   "name":"Dorsomedial nucleus of the hypothalamus, ventral part--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"452",   "name":"Median preoptic nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"523",   "name":"Medial preoptic area--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"763",   "name":"Vascular organ of the lamina terminalis--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"914",   "name":"Posterodorsal preoptic nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"1109",   "name":"Parastrial nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"1124",   "name":"Suprachiasmatic preoptic nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"126",   "name":"Periventricular hypothalamic nucleus, posterior part--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"133",   "name":"Periventricular hypothalamic nucleus, preoptic part--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"347",   "name":"Subparaventricular zone--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"286",   "name":"Suprachiasmatic nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"338",   "name":"Subfornical organ--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"689",   "name":"Ventrolateral preoptic nucleus--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"467",   "name":"Hypothalamic medial zone--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"88",   "name":"Anterior hypothalamic nucleus--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"700",   "name":"Anterior hypothalamic nucleus, anterior part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"708",   "name":"Anterior hypothalamic nucleus, central part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"716",   "name":"Anterior hypothalamic nucleus, dorsal part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"724",   "name":"Anterior hypothalamic nucleus, posterior part--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"331",   "name":"Mammillary body--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"210",   "name":"Lateral mammillary nucleus--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"491",   "name":"Medial mammillary nucleus--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"732",   "name":"Medial mammillary nucleus, median part--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]},
+                      {"id":"525",   "name":"Supramammillary nucleus--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"1110",   "name":"Supramammillary nucleus, lateral part--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"1118",   "name":"Supramammillary nucleus, medial part--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]},
+                      {"id":"557",   "name":"Tuberomammillary nucleus--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"1126",   "name":"Tuberomammillary nucleus, dorsal part--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"1",   "name":"Tuberomammillary nucleus, ventral part--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]}
+                  ]},
+                   {"id":"515",   "name":"Medial preoptic nucleus--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"740",   "name":"Medial preoptic nucleus, central part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"748",   "name":"Medial preoptic nucleus, lateral part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"756",   "name":"Medial preoptic nucleus, medial part--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"980",   "name":"Dorsal premammillary nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"1004",   "name":"Ventral premammillary nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"63",   "name":"Paraventricular hypothalamic nucleus, descending division--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"439",   "name":"Paraventricular hypothalamic nucleus, descending division, dorsal parvicellular part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"447",   "name":"Paraventricular hypothalamic nucleus, descending division, forniceal part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"455",   "name":"Paraventricular hypothalamic nucleus, descending division, lateral parvicellular part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"464",   "name":"Paraventricular hypothalamic nucleus, descending division, medial parvicellular part, ventral zone--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"693",   "name":"Ventromedial hypothalamic nucleus--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"761",   "name":"Ventromedial hypothalamic nucleus, anterior part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"769",   "name":"Ventromedial hypothalamic nucleus, central part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"777",   "name":"Ventromedial hypothalamic nucleus, dorsomedial part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"785",   "name":"Ventromedial hypothalamic nucleus, ventrolateral part--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"946",   "name":"Posterior hypothalamic nucleus--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"290",   "name":"Hypothalamic lateral zone--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"194",   "name":"Lateral hypothalamic area--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"226",   "name":"Lateral preoptic area--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"356",   "name":"Preparasubthalamic nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"364",   "name":"Parasubthalamic nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"173",   "name":"Retrochiasmatic area--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"470",   "name":"Subthalamic nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"614",   "name":"Tuberal nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"797",   "name":"Zona incerta--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"796",   "name":"Dopaminergic A13 group--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"804",   "name":"Fields of Forel--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]}
+               ]},
+                {"id":"10671",   "name":"Median eminence--", "atlas_id":"", "data":{}, "children":[               ]}
+            ]}
+         ]},
+          {"id":"313",   "name":"Midbrain--", "atlas_id":"", "data":{}, "children":[
+             {"id":"339",   "name":"Midbrain, sensory related--", "atlas_id":"", "data":{}, "children":[
+                {"id":"302",   "name":"Superior colliculus, sensory related--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"851",   "name":"Superior colliculus, optic layer--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"842",   "name":"Superior colliculus, superficial gray layer--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"834",   "name":"Superior colliculus, zonal layer--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"4",   "name":"Inferior colliculus--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"811",   "name":"Inferior colliculus, central nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"820",   "name":"Inferior colliculus, dorsal nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"828",   "name":"Inferior colliculus, external nucleus--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"580",   "name":"Nucleus of the brachium of the inferior colliculus--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"271",   "name":"Nucleus sagulum--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"874",   "name":"Parabigeminal nucleus--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"460",   "name":"Midbrain trigeminal nucleus--", "atlas_id":"", "data":{}, "children":[               ]}
+            ]},
+             {"id":"323",   "name":"Midbrain, motor related--", "atlas_id":"", "data":{}, "children":[
+                {"id":"381",   "name":"Substantia nigra, reticular part--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"749",   "name":"Ventral tegmental area--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"246",   "name":"Midbrain reticular nucleus, retrorubral area--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"128",   "name":"Midbrain reticular nucleus--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"539",   "name":"Midbrain reticular nucleus, magnocellular part--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"548",   "name":"Midbrain reticular nucleus, magnocellular part, general--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"555",   "name":"Midbrain reticular nucleus, parvicellular part--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"294",   "name":"Superior colliculus, motor related--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"26",   "name":"Superior colliculus, motor related, deep gray layer--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"42",   "name":"Superior colliculus, motor related, deep white layer--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"17",   "name":"Superior colliculus, motor related, intermediate white layer--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"10",   "name":"Superior colliculus, motor related, intermediate gray layer--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"494",   "name":"Superior colliculus, motor related, intermediate gray layer, sublayer a--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"503",   "name":"Superior colliculus, motor related, intermediate gray layer, sublayer b--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"511",   "name":"Superior colliculus, motor related, intermediate gray layer, sublayer c--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]}
+               ]},
+                {"id":"795",   "name":"Periaqueductal gray--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"50",   "name":"Precommissural nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"67",   "name":"Interstitial nucleus of Cajal--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"587",   "name":"Nucleus of Darkschewitsch--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"1100",   "name":"Pretectal region--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"215",   "name":"Anterior pretectal nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"531",   "name":"Medial pretectal area--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"628",   "name":"Nucleus of the optic tract--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"634",   "name":"Nucleus of the posterior commissure--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"706",   "name":"Olivary pretectal nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"1061",   "name":"Posterior pretectal nucleus--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"616",   "name":"Cuneiform nucleus--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"214",   "name":"Red nucleus--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"35",   "name":"Oculomotor nucleus--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"975",   "name":"Edinger-Westphal nucleus--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"115",   "name":"Trochlear nucleus--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"757",   "name":"Ventral tegmental nucleus--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"231",   "name":"Anterior tegmental nucleus--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"66",   "name":"Lateral terminal nucleus of the accessory optic tract--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"75",   "name":"Dorsal terminal nucleus of the accessory optic tract--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"58",   "name":"Medial terminal nucleus of the accessory optic tract--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"615",   "name":"Substantia nigra, lateral part--", "atlas_id":"", "data":{}, "children":[               ]}
+            ]},
+             {"id":"348",   "name":"Midbrain, behavioral state related--", "atlas_id":"", "data":{}, "children":[
+                {"id":"374",   "name":"Substantia nigra, compact part--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"1052",   "name":"Pedunculopontine nucleus--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"165",   "name":"Midbrain raphe nuclei--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"12",   "name":"Interfascicular nucleus raphe--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"100",   "name":"Interpeduncular nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"197",   "name":"Rostral linear nucleus raphe--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"591",   "name":"Central linear nucleus raphe--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"872",   "name":"Dorsal nucleus raphe--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]}
+            ]}
+         ]},
+          {"id":"1065",   "name":"Hindbrain--", "atlas_id":"", "data":{}, "children":[
+             {"id":"771",   "name":"Pons--", "atlas_id":"", "data":{}, "children":[
+                {"id":"1132",   "name":"Pons, sensory related--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"612",   "name":"Nucleus of the lateral lemniscus--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"82",   "name":"Nucleus of the lateral lemniscus, dorsal part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"90",   "name":"Nucleus of the lateral lemniscus, horizontal part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"99",   "name":"Nucleus of the lateral lemniscus, ventral part--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"7",   "name":"Principal sensory nucleus of the trigeminal--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"867",   "name":"Parabrachial nucleus--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"123",   "name":"Koelliker-Fuse subnucleus--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"881",   "name":"Parabrachial nucleus, lateral division--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"860",   "name":"Parabrachial nucleus, lateral division, central lateral part--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"868",   "name":"Parabrachial nucleus, lateral division, dorsal lateral part--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"875",   "name":"Parabrachial nucleus, lateral division, external lateral part--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"883",   "name":"Parabrachial nucleus, lateral division, superior lateral part--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"891",   "name":"Parabrachial nucleus, lateral division, ventral lateral part--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]},
+                      {"id":"890",   "name":"Parabrachial nucleus, medial division--", "atlas_id":"", "data":{}, "children":[
+                         {"id":"899",   "name":"Parabrachial nucleus, medial division, external medial part--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"915",   "name":"Parabrachial nucleus, medial division, medial medial part--", "atlas_id":"", "data":{}, "children":[                        ]},
+                         {"id":"923",   "name":"Parabrachial nucleus, medial division, ventral medial part--", "atlas_id":"", "data":{}, "children":[                        ]}
+                     ]}
+                  ]},
+                   {"id":"398",   "name":"Superior olivary complex--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"122",   "name":"Superior olivary complex, periolivary region--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"105",   "name":"Superior olivary complex, medial part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"114",   "name":"Superior olivary complex, lateral part--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]}
+               ]},
+                {"id":"987",   "name":"Pons, motor related--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"280",   "name":"Barrington's nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"880",   "name":"Dorsal tegmental nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"283",   "name":"Lateral tegmental nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"898",   "name":"Pontine central gray--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"931",   "name":"Pontine gray--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"1093",   "name":"Pontine reticular nucleus, caudal part--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"552",   "name":"Pontine reticular nucleus, ventral part--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"318",   "name":"Supragenual nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"462",   "name":"Superior salivatory nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"534",   "name":"Supratrigeminal nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"574",   "name":"Tegmental reticular nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"621",   "name":"Motor nucleus of trigeminal--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"1117",   "name":"Pons, behavioral state related--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"679",   "name":"Superior central nucleus raphe--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"137",   "name":"Superior central nucleus raphe, lateral part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"130",   "name":"Superior central nucleus raphe, medial part--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"147",   "name":"Locus ceruleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"162",   "name":"Laterodorsal tegmental nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"604",   "name":"Nucleus incertus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"146",   "name":"Pontine reticular nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"238",   "name":"Nucleus raphe pontis--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"350",   "name":"Subceruleus nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"358",   "name":"Sublaterodorsal nucleus--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]}
+            ]},
+             {"id":"354",   "name":"Medulla--", "atlas_id":"", "data":{}, "children":[
+                {"id":"386",   "name":"Medulla, sensory related--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"207",   "name":"Area postrema--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"607",   "name":"Cochlear nuclei--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"112",   "name":"Granular lamina of the cochlear nuclei--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"560",   "name":"Cochlear nucleus, subpedunclular granular region--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"96",   "name":"Dorsal cochlear nucleus--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"101",   "name":"Ventral cochlear nucleus--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"720",   "name":"Dorsal column nuclei--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"711",   "name":"Cuneate nucleus--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"1039",   "name":"Gracile nucleus--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"903",   "name":"External cuneate nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"642",   "name":"Nucleus of the trapezoid body--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"651",   "name":"Nucleus of the solitary tract--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"659",   "name":"Nucleus of the solitary tract, central part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"666",   "name":"Nucleus of the solitary tract, commissural part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"674",   "name":"Nucleus of the solitary tract, gelatinous part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"682",   "name":"Nucleus of the solitary tract, lateral part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"691",   "name":"Nucleus of the solitary tract, medial part--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"429",   "name":"Spinal nucleus of the trigeminal, caudal part--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"437",   "name":"Spinal nucleus of the trigeminal, interpolar part--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"445",   "name":"Spinal nucleus of the trigeminal, oral part--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"77",   "name":"Spinal nucleus of the trigeminal, oral part, caudal dorsomedial part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"53",   "name":"Spinal nucleus of the trigeminal, oral part, middle dorsomedial part, dorsal zone--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"61",   "name":"Spinal nucleus of the trigeminal, oral part, middle dorsomedial part, ventral zone--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"45",   "name":"Spinal nucleus of the trigeminal, oral part, rostral dorsomedial part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"69",   "name":"Spinal nucleus of the trigeminal, oral part, ventrolateral part--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"789",   "name":"Nucleus z--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"370",   "name":"Medulla, motor related--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"653",   "name":"Abducens nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"568",   "name":"Accessory abducens nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"661",   "name":"Facial motor nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"576",   "name":"Accessory facial motor nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"640",   "name":"Efferent vestibular nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"135",   "name":"Nucleus ambiguus--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"939",   "name":"Nucleus ambiguus, dorsal division--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"143",   "name":"Nucleus ambiguus, ventral division--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"839",   "name":"Dorsal motor nucleus of the vagus nerve--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"887",   "name":"Efferent cochlear group--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"1048",   "name":"Gigantocellular reticular nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"372",   "name":"Infracerebellar nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"83",   "name":"Inferior olivary complex--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"136",   "name":"Intermediate reticular nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"106",   "name":"Inferior salivatory nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"203",   "name":"Linear nucleus of the medulla--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"235",   "name":"Lateral reticular nucleus--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"955",   "name":"Lateral reticular nucleus, magnocellular part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"963",   "name":"Lateral reticular nucleus, parvicellular part--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"307",   "name":"Magnocellular reticular nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"395",   "name":"Medullary reticular nucleus--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"1098",   "name":"Medullary reticular nucleus, dorsal part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"1107",   "name":"Medullary reticular nucleus, ventral part--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"852",   "name":"Parvicellular reticular nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"859",   "name":"Parasolitary nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"938",   "name":"Paragigantocellular reticular nucleus--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"970",   "name":"Paragigantocellular reticular nucleus, dorsal part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"978",   "name":"Paragigantocellular reticular nucleus, lateral part--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"154",   "name":"Perihypoglossal nuclei--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"161",   "name":"Nucleus intercalatus--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"177",   "name":"Nucleus of Roller--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"169",   "name":"Nucleus prepositus--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"995",   "name":"Paramedian reticular nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"1069",   "name":"Parapyramidal nucleus--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"185",   "name":"Parapyramidal nucleus, deep part--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"193",   "name":"Parapyramidal nucleus, superficial part--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"701",   "name":"Vestibular nuclei--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"209",   "name":"Lateral vestibular nucleus--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"202",   "name":"Medial vestibular nucleus--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"225",   "name":"Spinal vestibular nucleus--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"217",   "name":"Superior vestibular nucleus--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"765",   "name":"Nucleus x--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"773",   "name":"Hypoglossal nucleus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"781",   "name":"Nucleus y--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"76",   "name":"Interstitial nucleus of the vestibular nerve--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"379",   "name":"Medulla, behavioral state related--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"206",   "name":"Nucleus raphe magnus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"230",   "name":"Nucleus raphe pallidus--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"222",   "name":"Nucleus raphe obscurus--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]}
+            ]}
+         ]}
+      ]},
+       {"id":"512",   "name":"Cerebellum--", "atlas_id":"", "data":{}, "children":[
+          {"id":"528",   "name":"Cerebellar cortex--", "atlas_id":"", "data":{}, "children":[
+             {"id":"645",   "name":"Vermal regions--", "atlas_id":"", "data":{}, "children":[
+                {"id":"912",   "name":"Lingula (I)--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"10707",   "name":"Lingula (I), molecular layer--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"10706",   "name":"Lingula (I), Purkinje layer--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"10705",   "name":"Lingula (I), granular layer--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"920",   "name":"Central lobule--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"976",   "name":"Lobule II--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"10710",   "name":"Lobule II, molecular layer--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"10709",   "name":"Lobule II, Purkinje layer--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"10708",   "name":"Lobule II, granular layer--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"984",   "name":"Lobule III--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"10713",   "name":"Lobule III, molecular layer--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"10712",   "name":"Lobule III, Purkinje layer--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"10711",   "name":"Lobule III, granular layer--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]}
+               ]},
+                {"id":"928",   "name":"Culmen--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"992",   "name":"Lobule IV--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"10716",   "name":"Lobule IV, molecular layer--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"10715",   "name":"Lobule IV, Purkinje layer--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"10714",   "name":"Lobule IV, granular layer--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"1001",   "name":"Lobule V--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"10719",   "name":"Lobule V, molecular layer--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"10718",   "name":"Lobule V, Purkinje layer--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"10717",   "name":"Lobule V, granular layer--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"1091",   "name":"Lobules IV-V--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"10722",   "name":"Lobules IV-V, molecular layer--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"10721",   "name":"Lobules IV-V, Purkinje layer--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"10720",   "name":"Lobules IV-V, granular layer--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]}
+               ]},
+                {"id":"936",   "name":"Declive (VI)--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"10725",   "name":"Declive (VI), molecular layer--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"10724",   "name":"Declive (VI), Purkinje layer--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"10723",   "name":"Declive (VI), granular layer--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"944",   "name":"Folium-tuber vermis (VII)--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"10728",   "name":"Folium-tuber vermis (VII), molecular layer--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"10727",   "name":"Folium-tuber vermis (VII), Purkinje layer--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"10726",   "name":"Folium-tuber vermis (VII), granular layer--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"951",   "name":"Pyramus (VIII)--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"10731",   "name":"Pyramus (VIII), molecular layer--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"10730",   "name":"Pyramus (VIII), Purkinje layer--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"10729",   "name":"Pyramus (VIII), granular layer--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"957",   "name":"Uvula (IX)--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"10734",   "name":"Uvula (IX), molecular layer--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"10733",   "name":"Uvula (IX), Purkinje layer--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"10732",   "name":"Uvula (IX), granular layer--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"968",   "name":"Nodulus (X)--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"10737",   "name":"Nodulus (X), molecular layer--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"10736",   "name":"Nodulus (X), Purkinje layer--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"10735",   "name":"Nodulus (X), granular layer--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]}
+            ]},
+             {"id":"1073",   "name":"Hemispheric regions--", "atlas_id":"", "data":{}, "children":[
+                {"id":"1007",   "name":"Simple lobule--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"10674",   "name":"Simple lobule, molecular layer--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"10673",   "name":"Simple lobule, Purkinje layer--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"10672",   "name":"Simple lobule, granular layer--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"1017",   "name":"Ansiform lobule--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"1056",   "name":"Crus 1--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"10677",   "name":"Crus 1, molecular layer--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"10676",   "name":"Crus 1, Purkinje layer--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"10675",   "name":"Crus 1, granular layer--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]},
+                   {"id":"1064",   "name":"Crus 2--", "atlas_id":"", "data":{}, "children":[
+                      {"id":"10680",   "name":"Crus 2, molecular layer--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"10679",   "name":"Crus 2, Purkinje layer--", "atlas_id":"", "data":{}, "children":[                     ]},
+                      {"id":"10678",   "name":"Crus 2, granular layer--", "atlas_id":"", "data":{}, "children":[                     ]}
+                  ]}
+               ]},
+                {"id":"1025",   "name":"Paramedian lobule--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"10683",   "name":"Paramedian lobule, molecular layer--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"10682",   "name":"Paramedian lobule, Purkinje layer--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"10681",   "name":"Paramedian lobule, granular layer--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"1033",   "name":"Copula pyramidis--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"10686",   "name":"Copula pyramidis, molecular layer--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"10685",   "name":"Copula pyramidis, Purkinje layer--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"10684",   "name":"Copula pyramidis, granular layer--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"1041",   "name":"Paraflocculus--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"10689",   "name":"Paraflocculus, molecular layer--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"10688",   "name":"Paraflocculus, Purkinje layer--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"10687",   "name":"Paraflocculus, granular layer--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"1049",   "name":"Flocculus--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"10692",   "name":"Flocculus, molecular layer--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"10691",   "name":"Flocculus, Purkinje layer--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"10690",   "name":"Flocculus, granular layer--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]}
+            ]},
+             {"id":"1144",   "name":"Cerebellar cortex, molecular layer--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"1145",   "name":"Cerebellar cortex, Purkinje layer--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"1143",   "name":"Cerebellar cortex, granular layer--", "atlas_id":"", "data":{}, "children":[            ]}
+         ]},
+          {"id":"519",   "name":"Cerebellar nuclei--", "atlas_id":"", "data":{}, "children":[
+             {"id":"989",   "name":"Fastigial nucleus--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"91",   "name":"Interposed nucleus--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"846",   "name":"Dentate nucleus--", "atlas_id":"", "data":{}, "children":[            ]}
+         ]}
+      ]}
+   ]},
+    {"id":"1009",   "name":"fiber tracts--", "atlas_id":"", "data":{}, "children":[
+       {"id":"967",   "name":"cranial nerves--", "atlas_id":"", "data":{}, "children":[
+          {"id":"885",   "name":"terminal nerve--", "atlas_id":"", "data":{}, "children":[         ]},
+          {"id":"949",   "name":"vomeronasal nerve--", "atlas_id":"", "data":{}, "children":[         ]},
+          {"id":"840",   "name":"olfactory nerve--", "atlas_id":"", "data":{}, "children":[
+             {"id":"1016",   "name":"olfactory nerve layer of main olfactory bulb--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"21",   "name":"lateral olfactory tract, general--", "atlas_id":"", "data":{}, "children":[
+                {"id":"665",   "name":"lateral olfactory tract, body--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"538",   "name":"dorsal limb--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"459",   "name":"accessory olfactory tract--", "atlas_id":"", "data":{}, "children":[               ]}
+            ]},
+             {"id":"900",   "name":"anterior commissure, olfactory limb--", "atlas_id":"", "data":{}, "children":[            ]}
+         ]},
+          {"id":"848",   "name":"optic nerve--", "atlas_id":"", "data":{}, "children":[
+             {"id":"876",   "name":"accessory optic tract--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"916",   "name":"brachium of the superior colliculus--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"336",   "name":"superior colliculus commissure--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"117",   "name":"optic chiasm--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"125",   "name":"optic tract--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"357",   "name":"tectothalamic pathway--", "atlas_id":"", "data":{}, "children":[            ]}
+         ]},
+          {"id":"832",   "name":"oculomotor nerve--", "atlas_id":"", "data":{}, "children":[
+             {"id":"62",   "name":"medial longitudinal fascicle--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"158",   "name":"posterior commissure--", "atlas_id":"", "data":{}, "children":[            ]}
+         ]},
+          {"id":"911",   "name":"trochlear nerve--", "atlas_id":"", "data":{}, "children":[
+             {"id":"384",   "name":"trochlear nerve decussation--", "atlas_id":"", "data":{}, "children":[            ]}
+         ]},
+          {"id":"710",   "name":"abducens nerve--", "atlas_id":"", "data":{}, "children":[         ]},
+          {"id":"901",   "name":"trigeminal nerve--", "atlas_id":"", "data":{}, "children":[
+             {"id":"93",   "name":"motor root of the trigeminal nerve--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"229",   "name":"sensory root of the trigeminal nerve--", "atlas_id":"", "data":{}, "children":[
+                {"id":"705",   "name":"midbrain tract of the trigeminal nerve--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"794",   "name":"spinal tract of the trigeminal nerve--", "atlas_id":"", "data":{}, "children":[               ]}
+            ]}
+         ]},
+          {"id":"798",   "name":"facial nerve--", "atlas_id":"", "data":{}, "children":[
+             {"id":"1131",   "name":"intermediate nerve--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"1116",   "name":"genu of the facial nerve--", "atlas_id":"", "data":{}, "children":[            ]}
+         ]},
+          {"id":"933",   "name":"vestibulocochlear nerve--", "atlas_id":"", "data":{}, "children":[
+             {"id":"1076",   "name":"efferent cochleovestibular bundle--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"413",   "name":"vestibular nerve--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"948",   "name":"cochlear nerve--", "atlas_id":"", "data":{}, "children":[
+                {"id":"841",   "name":"trapezoid body--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"641",   "name":"intermediate acoustic stria--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"506",   "name":"dorsal acoustic stria--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"658",   "name":"lateral lemniscus--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"633",   "name":"inferior colliculus commissure--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"482",   "name":"brachium of the inferior colliculus--", "atlas_id":"", "data":{}, "children":[               ]}
+            ]}
+         ]},
+          {"id":"808",   "name":"glossopharyngeal nerve--", "atlas_id":"", "data":{}, "children":[         ]},
+          {"id":"917",   "name":"vagus nerve--", "atlas_id":"", "data":{}, "children":[
+             {"id":"237",   "name":"solitary tract--", "atlas_id":"", "data":{}, "children":[            ]}
+         ]},
+          {"id":"717",   "name":"accessory spinal nerve--", "atlas_id":"", "data":{}, "children":[         ]},
+          {"id":"813",   "name":"hypoglossal nerve--", "atlas_id":"", "data":{}, "children":[         ]},
+          {"id":"925",   "name":"ventral roots--", "atlas_id":"", "data":{}, "children":[         ]},
+          {"id":"792",   "name":"dorsal roots--", "atlas_id":"", "data":{}, "children":[
+             {"id":"932",   "name":"cervicothalamic tract--", "atlas_id":"", "data":{}, "children":[
+                {"id":"570",   "name":"dorsolateral fascicle--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"522",   "name":"dorsal commissure of the spinal cord--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"858",   "name":"ventral commissure of the spinal cord--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"586",   "name":"fasciculus proprius--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"514",   "name":"dorsal column--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"380",   "name":"cuneate fascicle--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"388",   "name":"gracile fascicle--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"396",   "name":"internal arcuate fibers--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"697",   "name":"medial lemniscus--", "atlas_id":"", "data":{}, "children":[               ]}
+            ]}
+         ]},
+          {"id":"871",   "name":"spinothalamic tract--", "atlas_id":"", "data":{}, "children":[
+             {"id":"29",   "name":"lateral spinothalamic tract--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"389",   "name":"ventral spinothalamic tract--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"245",   "name":"spinocervical tract--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"261",   "name":"spino-olivary pathway--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"270",   "name":"spinoreticular pathway--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"293",   "name":"spinovestibular pathway--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"277",   "name":"spinotectal pathway--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"253",   "name":"spinohypothalamic pathway--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"285",   "name":"spinotelenchephalic pathway--", "atlas_id":"", "data":{}, "children":[
+                {"id":"627",   "name":"hypothalamohypophysial tract--", "atlas_id":"", "data":{}, "children":[               ]}
+            ]}
+         ]}
+      ]},
+       {"id":"960",   "name":"cerebellum related fiber tracts--", "atlas_id":"", "data":{}, "children":[
+          {"id":"744",   "name":"cerebellar commissure--", "atlas_id":"", "data":{}, "children":[         ]},
+          {"id":"752",   "name":"cerebellar peduncles--", "atlas_id":"", "data":{}, "children":[
+             {"id":"326",   "name":"superior cerebelar peduncles--", "atlas_id":"", "data":{}, "children":[
+                {"id":"812",   "name":"superior cerebellar peduncle decussation--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"85",   "name":"spinocerebellar tract--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"850",   "name":"uncinate fascicle--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"866",   "name":"ventral spinocerebellar tract--", "atlas_id":"", "data":{}, "children":[               ]}
+            ]},
+             {"id":"78",   "name":"middle cerebellar peduncle--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"1123",   "name":"inferior cerebellar peduncle--", "atlas_id":"", "data":{}, "children":[
+                {"id":"553",   "name":"dorsal spinocerebellar tract--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"499",   "name":"cuneocerebellar tract--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"650",   "name":"juxtarestiform body--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"490",   "name":"bulbocerebellar tract--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"404",   "name":"olivocerebellar tract--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"410",   "name":"reticulocerebellar tract--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]}
+            ]},
+             {"id":"373",   "name":"trigeminocerebellar tract--", "atlas_id":"", "data":{}, "children":[            ]}
+         ]},
+          {"id":"728",   "name":"arbor vitae--", "atlas_id":"", "data":{}, "children":[         ]}
+      ]},
+       {"id":"983",   "name":"lateral forebrain bundle system--", "atlas_id":"", "data":{}, "children":[
+          {"id":"776",   "name":"corpus callosum--", "atlas_id":"", "data":{}, "children":[
+             {"id":"956",   "name":"corpus callosum, anterior forceps--", "atlas_id":"", "data":{}, "children":[
+                {"id":"579",   "name":"external capsule--", "atlas_id":"", "data":{}, "children":[               ]}
+            ]},
+             {"id":"964",   "name":"corpus callosum, extreme capsule--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"1108",   "name":"genu of corpus callosum--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"971",   "name":"corpus callosum, posterior forceps--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"979",   "name":"corpus callosum, rostrum--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"986",   "name":"corpus callosum, splenium--", "atlas_id":"", "data":{}, "children":[            ]}
+         ]},
+          {"id":"784",   "name":"corticospinal tract--", "atlas_id":"", "data":{}, "children":[
+             {"id":"6",   "name":"internal capsule--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"924",   "name":"cerebal peduncle--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"1036",   "name":"corticotectal tract--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"1012",   "name":"corticorubral tract--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"1003",   "name":"corticopontine tract--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"994",   "name":"corticobulbar tract--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"190",   "name":"pyramid--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"198",   "name":"pyramidal decussation--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"1019",   "name":"corticospinal tract, crossed--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"1028",   "name":"corticospinal tract, uncrossed--", "atlas_id":"", "data":{}, "children":[            ]}
+         ]},
+          {"id":"896",   "name":"thalamus related--", "atlas_id":"", "data":{}, "children":[
+             {"id":"1092",   "name":"external medullary lamina of the thalamus--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"14",   "name":"internal medullary lamina of the thalamus--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"86",   "name":"middle thalamic commissure--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"365",   "name":"thalamic peduncles--", "atlas_id":"", "data":{}, "children":[            ]}
+         ]}
+      ]},
+       {"id":"1000",   "name":"extrapyramidal fiber systems--", "atlas_id":"", "data":{}, "children":[
+          {"id":"760",   "name":"cerebral nuclei related--", "atlas_id":"", "data":{}, "children":[
+             {"id":"142",   "name":"pallidothalmic pathway--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"102",   "name":"nigrostriatal tract--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"109",   "name":"nigrothalamic fibers--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"134",   "name":"pallidotegmental fascicle--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"309",   "name":"striatonigral pathway--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"317",   "name":"subthalamic fascicle--", "atlas_id":"", "data":{}, "children":[            ]}
+         ]},
+          {"id":"877",   "name":"tectospinal pathway--", "atlas_id":"", "data":{}, "children":[
+             {"id":"1051",   "name":"direct tectospinal pathway--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"1060",   "name":"doral tegmental decussation--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"1043",   "name":"crossed tectospinal pathway--", "atlas_id":"", "data":{}, "children":[            ]}
+         ]},
+          {"id":"863",   "name":"rubrospinal tract--", "atlas_id":"", "data":{}, "children":[
+             {"id":"397",   "name":"ventral tegmental decussation--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"221",   "name":"rubroreticular tract--", "atlas_id":"", "data":{}, "children":[            ]}
+         ]},
+          {"id":"736",   "name":"central tegmental bundle--", "atlas_id":"", "data":{}, "children":[         ]},
+          {"id":"855",   "name":"retriculospinal tract--", "atlas_id":"", "data":{}, "children":[
+             {"id":"205",   "name":"retriculospinal tract, lateral part--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"213",   "name":"retriculospinal tract, medial part--", "atlas_id":"", "data":{}, "children":[            ]}
+         ]},
+          {"id":"941",   "name":"vestibulospinal pathway--", "atlas_id":"", "data":{}, "children":[         ]}
+      ]},
+       {"id":"991",   "name":"medial forebrain bundle system--", "atlas_id":"", "data":{}, "children":[
+          {"id":"768",   "name":"cerebrum related--", "atlas_id":"", "data":{}, "children":[
+             {"id":"884",   "name":"amygdalar capsule--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"892",   "name":"ansa peduncularis--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"908",   "name":"anterior commissure, temporal limb--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"940",   "name":"cingulum bundle--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"1099",   "name":"fornix system--", "atlas_id":"", "data":{}, "children":[
+                {"id":"466",   "name":"alveus--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"530",   "name":"dorsal fornix--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"603",   "name":"fimbria--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"745",   "name":"precommissural fornix, general--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"420",   "name":"precommissural fornix diagonal band--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"737",   "name":"postcommissural fornix--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"428",   "name":"medial corticohypothalmic tract--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"436",   "name":"columns of the fornix--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"618",   "name":"hippocampal commissures--", "atlas_id":"", "data":{}, "children":[
+                   {"id":"443",   "name":"dorsal hippocampal commissure--", "atlas_id":"", "data":{}, "children":[                  ]},
+                   {"id":"449",   "name":"ventral hippocampal commissure--", "atlas_id":"", "data":{}, "children":[                  ]}
+               ]},
+                {"id":"713",   "name":"perforant path--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"474",   "name":"angular path--", "atlas_id":"", "data":{}, "children":[               ]}
+            ]},
+             {"id":"37",   "name":"longitudinal association bundle--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"301",   "name":"stria terminalis--", "atlas_id":"", "data":{}, "children":[            ]}
+         ]},
+          {"id":"824",   "name":"hypothalamus related--", "atlas_id":"", "data":{}, "children":[
+             {"id":"54",   "name":"medial forebrain bundle--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"405",   "name":"ventrolateral hypothalamic tract--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"174",   "name":"preoptic commissure--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"349",   "name":"supraoptic commissures--", "atlas_id":"", "data":{}, "children":[
+                {"id":"817",   "name":"supraoptic commissures, anterior--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"825",   "name":"supraoptic commissures, dorsal--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"833",   "name":"supraoptic commissures, ventral--", "atlas_id":"", "data":{}, "children":[               ]}
+            ]},
+             {"id":"166",   "name":"premammillary commissure--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"341",   "name":"supramammillary decussation--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"182",   "name":"propriohypothalamic pathways--", "atlas_id":"", "data":{}, "children":[
+                {"id":"762",   "name":"propriohypothalamic pathways, dorsal--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"770",   "name":"propriohypothalamic pathways, lateral--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"779",   "name":"propriohypothalamic pathways, medial--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"787",   "name":"propriohypothalamic pathways, ventral--", "atlas_id":"", "data":{}, "children":[               ]}
+            ]},
+             {"id":"150",   "name":"periventricular bundle of the hypothalamus--", "atlas_id":"", "data":{}, "children":[            ]},
+             {"id":"46",   "name":"mammillary related--", "atlas_id":"", "data":{}, "children":[
+                {"id":"753",   "name":"principal mammillary tract--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"690",   "name":"mammilothalmic tract--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"681",   "name":"mammillotegmental tract--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"673",   "name":"mammillary peduncle--", "atlas_id":"", "data":{}, "children":[               ]}
+            ]},
+             {"id":"1068",   "name":"dorsal thalamus related--", "atlas_id":"", "data":{}, "children":[
+                {"id":"722",   "name":"periventricular bundle of the thalamus--", "atlas_id":"", "data":{}, "children":[               ]}
+            ]},
+             {"id":"1083",   "name":"epithalamus related--", "atlas_id":"", "data":{}, "children":[
+                {"id":"802",   "name":"stria medullaris--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"595",   "name":"fasciculus retroflexus--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"611",   "name":"habenular commissure--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"730",   "name":"pineal stalk--", "atlas_id":"", "data":{}, "children":[               ]}
+            ]},
+             {"id":"70",   "name":"midbrain related--", "atlas_id":"", "data":{}, "children":[
+                {"id":"547",   "name":"dorsal longitudinal fascicle--", "atlas_id":"", "data":{}, "children":[               ]},
+                {"id":"563",   "name":"dorsal tegmental tract--", "atlas_id":"", "data":{}, "children":[               ]}
+            ]}
+         ]}
+      ]}
+   ]},
+    {"id":"73",   "name":"ventricular systems--", "atlas_id":"", "data":{}, "children":[
+       {"id":"81",   "name":"lateral ventricle--", "atlas_id":"", "data":{}, "children":[
+          {"id":"89",   "name":"rhinocele--", "atlas_id":"", "data":{}, "children":[         ]},
+          {"id":"98",   "name":"subependymal zone--", "atlas_id":"", "data":{}, "children":[         ]},
+          {"id":"108",   "name":"choroid plexus--", "atlas_id":"", "data":{}, "children":[         ]},
+          {"id":"116",   "name":"choroid fissure--", "atlas_id":"", "data":{}, "children":[         ]}
+      ]},
+       {"id":"124",   "name":"interventricular foramen--", "atlas_id":"", "data":{}, "children":[      ]},
+       {"id":"129",   "name":"third ventricle--", "atlas_id":"", "data":{}, "children":[      ]},
+       {"id":"140",   "name":"cerebral aqueduct--", "atlas_id":"", "data":{}, "children":[      ]},
+       {"id":"145",   "name":"fourth ventricle--", "atlas_id":"", "data":{}, "children":[
+          {"id":"153",   "name":"lateral recess--", "atlas_id":"", "data":{}, "children":[         ]}
+      ]},
+       {"id":"164",   "name":"central canal, spinal cord/medulla--", "atlas_id":"", "data":{}, "children":[      ]}
+   ]},
+    {"id":"1024",   "name":"grooves--", "atlas_id":"", "data":{}, "children":[
+       {"id":"1032",   "name":"grooves of the cerebral cortex--", "atlas_id":"", "data":{}, "children":[
+          {"id":"1055",   "name":"endorhinal groove--", "atlas_id":"", "data":{}, "children":[         ]},
+          {"id":"1063",   "name":"hippocampal fissure--", "atlas_id":"", "data":{}, "children":[         ]},
+          {"id":"1071",   "name":"rhinal fissure--", "atlas_id":"", "data":{}, "children":[         ]},
+          {"id":"1078",   "name":"rhinal incisure--", "atlas_id":"", "data":{}, "children":[         ]}
+      ]},
+       {"id":"1040",   "name":"grooves of the cerebellar cortex--", "atlas_id":"", "data":{}, "children":[
+          {"id":"1087",   "name":"precentral fissure--", "atlas_id":"", "data":{}, "children":[         ]},
+          {"id":"1095",   "name":"preculminate fissure--", "atlas_id":"", "data":{}, "children":[         ]},
+          {"id":"1103",   "name":"primary fissure--", "atlas_id":"", "data":{}, "children":[         ]},
+          {"id":"1112",   "name":"posterior superior fissure--", "atlas_id":"", "data":{}, "children":[         ]},
+          {"id":"1119",   "name":"prepyramidal fissure--", "atlas_id":"", "data":{}, "children":[         ]},
+          {"id":"3",   "name":"secondary fissure--", "atlas_id":"", "data":{}, "children":[         ]},
+          {"id":"11",   "name":"posterolateral fissure--", "atlas_id":"", "data":{}, "children":[         ]},
+          {"id":"18",   "name":"nodular fissure--", "atlas_id":"", "data":{}, "children":[         ]},
+          {"id":"25",   "name":"simple fissure--", "atlas_id":"", "data":{}, "children":[         ]},
+          {"id":"34",   "name":"intercrural fissure--", "atlas_id":"", "data":{}, "children":[         ]},
+          {"id":"43",   "name":"ansoparamedian fissure--", "atlas_id":"", "data":{}, "children":[         ]},
+          {"id":"49",   "name":"intraparafloccular fissure--", "atlas_id":"", "data":{}, "children":[         ]},
+          {"id":"57",   "name":"paramedian sulcus--", "atlas_id":"", "data":{}, "children":[         ]},
+          {"id":"65",   "name":"parafloccular sulcus--", "atlas_id":"", "data":{}, "children":[         ]}
+      ]},
+       {"id":"624",   "name":"Interpeduncular fossa--", "atlas_id":"", "data":{}, "children":[      ]}
+   ]}
+]}
