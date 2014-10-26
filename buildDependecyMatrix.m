@@ -1,5 +1,5 @@
 function buildDependecyMatrix()
-    ontlogyFile = 'mouseOntology.mat';
+    ontlogyFile = 'developingMouseOntology.mat';
     
     load(ontlogyFile,'structuredObjects');
    

@@ -1,9 +1,9 @@
 function parseXMlIntoDependencyMatrix(xmlFile)
-    xmlFile='mouseOntology.xml';
+    xmlFile='developingMouseOntology.xml';
     structureData = xml2struct(xmlFile);
     structuredObjects = createStructure(structureData.children);
     
-    save('mouseOntology.mat','structuredObjects');
+    save('developingMouseOntology.mat','structuredObjects');
 
 end
 
@@ -50,7 +50,13 @@ function structuredNode = createStructure(node)
                     if strcmp(curr_child.name ,'blue')
                         structuredNode(structIndex).color(3) = str2double(curr_child.children.data);
                     end
-
+                    
+                    if strcmp(curr_child.name ,'color-hex-triplet')
+                        structuredNode(structIndex).color(1) = hex2dec(curr_child.children.data(1:2));
+                        structuredNode(structIndex).color(2) = hex2dec(curr_child.children.data(3:4));
+                        structuredNode(structIndex).color(3) = hex2dec(curr_child.children.data(5:6));
+                    end
+                    
                     if strcmp(curr_child.name ,'children')
                         structuredNode(structIndex).childStructures = createStructure(curr_child.children);
                     end

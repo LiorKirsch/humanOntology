@@ -1,5 +1,5 @@
 function computeDistanceBetweenNodes()
-    ontologyFile = 'mouseOntology.mat';
+    ontologyFile = 'developingMouseOntology.mat';
 
     addpath('~/Projects/matlab_bgl')
     load(ontologyFile,'structuredObjects','dependecyMatrix','structureLabels');

@@ -1,5 +1,5 @@
 clear;
-hOntology = load('mouseOntology.mat');
+hOntology = load('developingMouseOntology.mat');
 
 ontologyObject = ontology;
 
@@ -22,4 +22,4 @@ reducedOntology = ontologyObject.reduceToLeafAndParents(leafIndices);
 reducedOntology2 = ontologyObject.reduceToNodeAndChilds([12]);
 [allChilds3, nodeLevel3] = reducedOntology.allChildNodes();
 
-save('mouseOntologyObject.mat', 'ontologyObject');
+save('developingMouseOntologyObject.mat', 'ontologyObject');
