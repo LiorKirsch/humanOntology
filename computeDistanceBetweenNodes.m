@@ -1,4 +1,7 @@
 function computeDistanceBetweenNodes()
+% This function computes distances between nodes in the graph
+% It uses the matlab_bgl library.
+
     ontologyFile = 'developingMouseOntology.mat';
 
     addpath('~/Projects/matlab_bgl')

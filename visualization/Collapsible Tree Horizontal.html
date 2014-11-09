@@ -25,14 +25,13 @@
 </style>
 <body>
 
-<select onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
-    <option value="?ontologyFile=humanBrain.json">Human</option>
-    <option value="?ontologyFile=mouseBrain.json">Mouse</option>
-    <option value="?ontologyFile=developingMouseBrain.json">Developing mouse</option>
+<select id="ontologySelect" onchange="this.options[this.selectedIndex].value && (window.location = '?ontologyFile=' + this.options[this.selectedIndex].value);">
 </select>
 
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
+
+
 
 function getURLParameter(name) {
   return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||null
@@ -40,6 +39,23 @@ function getURLParameter(name) {
 
 var ontologyFile = getURLParameter('ontologyFile');
 if (!ontologyFile) { ontologyFile = 'humanBrain.json' };
+
+
+
+var optionDict = {"Human": "humanBrain.json", "Mouse": "mouseBrain.json", "Developing mouse":"developingMouseBrain.json" };
+
+
+var list = document.getElementById("ontologySelect");
+var keyIndex =0;
+for(var key in optionDict) {
+  list.add(new Option(key, optionDict[key]));
+  if (ontologyFile == optionDict[key]){
+	list.selectedIndex = keyIndex;
+	}
+  keyIndex = keyIndex +1;
+}
+
+
 
 var margin = {top: 20, right: 120, bottom: 20, left: 120},
     width = 960 - margin.right - margin.left,
